@@ -1,0 +1,8 @@
+# 测试/调试产物不入库
+test_*.js
+test_*.png
+test_*.jpg
+
+# 系统文件
+Thumbs.db
+.DS_Store
