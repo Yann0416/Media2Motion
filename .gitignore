@@ -6,3 +6,4 @@ test_*.jpg
 # 系统文件
 Thumbs.db
 .DS_Store
+compress_gif.py
